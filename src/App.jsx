@@ -1,12 +1,12 @@
 import ButtonGradient from "./assets/svg/ButtonGradient";
-import Benefits from "./components/Benefits";
-import Collaboration from "./components/Collaboration";
-import Footer from "./components/Footer";
+import Benefits from "./sections/BenefitsSection";
+import Collaboration from "./sections/CollaborationSection";
+import Footer from "./sections/FooterSection";
 import Header from "./components/Header";
-import Hero from "./components/Hero";
-import Pricing from "./components/Pricing";
-import Roadmap from "./components/Roadmap";
-import Services from "./components/Services";
+import Hero from "./sections/HeroSection";
+import Pricing from "./sections/PricingSection";
+import Roadmap from "./sections/RoadmapSection";
+import Services from "./sections/ServicesSection";
 
 const App = () => {
   return (
